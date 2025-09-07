@@ -5,7 +5,7 @@
 Prof. David Keathly
 
 ## Team Name
-Sunset Inc (Capstone Team)
+Sunrise Inc (Capstone Team)
 
 ## Team Members
 - Bibek Pandey
